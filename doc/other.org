@@ -5,9 +5,10 @@
 - 模板: [[https://github.com/luminus-framework/luminus-template][luminus-template]]
 ** 库
 *** mount
+定义和管理clojure项目中的状态
 - github: [[https://github.com/tolitius/mount][tolitius/mount]]
-- 作用: 定义和管理clojure项目中的状态
 - more: TODO
 *** cprop
+读取指定位置的配置文件
 - github: [[https://github.com/tolitius/cprop][tolitius/cprop]]
-- 作用:
+- more: [[./others/cprop.org]]

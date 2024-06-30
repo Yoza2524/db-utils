@@ -10,6 +10,7 @@
   :profiles     {:dev [:project/dev :profiles/dev]
 
                  :project/dev  {;; :source-paths ["."]
-                                :resource-paths ["resources"]}
+                                ;; :resource-paths ["resources"]
+                                }
                  :profiles/dev {}}
   :repl-options {:init-ns db-utils.core})
