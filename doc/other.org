@@ -1,0 +1,13 @@
+* 乱七八糟
+在此记录在测试和记录db-utils时, 同时也熟悉下搭建template项目的各个库
+
+** 创建模板
+- 模板: [[https://github.com/luminus-framework/luminus-template][luminus-template]]
+** 库
+*** mount
+- github: [[https://github.com/tolitius/mount][tolitius/mount]]
+- 作用: 定义和管理clojure项目中的状态
+- more: TODO
+*** cprop
+- github: [[https://github.com/tolitius/cprop][tolitius/cprop]]
+- 作用:
